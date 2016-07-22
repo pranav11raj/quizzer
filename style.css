@@ -1,0 +1,31 @@
+.container-fluid
+{
+	background-image: url("background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 100vh;
+}
+
+.contentCol
+{
+	border-style: solid #f2f2f2;
+	border-radius: 20px;
+	background-color: #f2f2f2;
+	color:  #0d0d0d;
+	padding: 10px;
+	
+
+}
+
+.topRow
+{
+	color: #f2f2f2;
+	text-align: center;
+}
+
+.questionArea
+{
+	overflow-y: scroll;
+	height: 350px;
+}
